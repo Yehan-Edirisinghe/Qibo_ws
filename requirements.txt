@@ -1,0 +1,5 @@
+qibo==0.2.8
+qibojit
+numpy==1.26.4
+scipy==1.13.0
+matplotlib==3.8.4
