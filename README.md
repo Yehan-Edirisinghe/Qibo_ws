@@ -1,10 +1,13 @@
-# Qibo_ws
-This is my first test repository working on [qibo](https://qibo.science/qibo/stable/).
+# My first Qibo Repository
 
 
-<p1> Requirements </p1>
+This repository contains my first works on the open source project [Qibo](https://qibo.science/qibo/stable/).
 
-the requirements are all listed in the **requirements.txt** file.
-It can be used with the command:
 
->pip install -r requirements.txt
+## Requirements
+
+All the requirements for this repository are listed in the **requirements.txt** file and can be installed using the following command on a terminal:
+
+```bash
+pip install -r requirements.txt
+```
